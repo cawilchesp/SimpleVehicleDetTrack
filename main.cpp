@@ -21,14 +21,11 @@ using namespace cv::dnn;
 int main()
 {
     // ----------------------------------- Settings ------------------------------------
-    // Archivo
-//    string folderName = "D:/OneDrive/Educacion/PUJ/Doctorado/Apps/Muestras/Videos"; // Windows Cs
-//    string folderName = "C:/Users/cawil/OneDrive/Educacion/PUJ/Doctorado/Apps/Muestras/Videos"; // Windows Tab
+    // Video file
     string folderName = "/home/doctorado/Muestras/Videos"; // Linux U
-//    string folderName = "/home/andres/Muestras/Videos"; // Linux Cs
     string videoName = "jueves_23_2.avi";
 
-    // Colores
+    // Colors
     Scalar blue(255,0,0);
     Scalar green(0,150,0);
     Scalar red(0,0,255);
