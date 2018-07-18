@@ -4,10 +4,10 @@ Simple Vehicle Detection and Tracking an application for videos of urban traffic
 
 ## Compilation
 
-The file "main.cpp" contains the code. For running the code, a folder name must be included in the code in variable "folderName", and must contain the following files:
+The file "main.cpp" contains the code. For running the code, a folder name must be included in the code in variable "folderName", and must contain the following files, obtained from YOLO Darknet website [1]:
 - coco.names
 - yolov2.cfg
-- [yolov2.weights ](https://pjreddie.com/media/files/yolov2.weights) [1]
+- [yolov2.weights ](https://pjreddie.com/media/files/yolov2.weights)
 
 References:
 
