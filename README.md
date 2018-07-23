@@ -2,7 +2,7 @@
 
 Simple Vehicle Detection and Tracking an application for videos of urban traffic, employing YOLO v2 implemented in OpenCV and a custom tracker algorithm.
 
-Copyright (c) 2018 Carlos Wilches, Julian Quiroga
+Copyright ©️ 2018 Carlos Wilches, Julian Quiroga
  
 Pontificia Universidad Javeriana, Bogotá Colombia
 
